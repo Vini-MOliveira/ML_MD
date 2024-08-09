@@ -20,6 +20,9 @@ Understanding protein conformational states is critical for insights into their 
 - Evaluates model performance using cross-validation.
 - Uses SHAP (SHapley Additive exPlanations) to interpret model predictions.
 
-### Result example
+### Result example:
+- Peptide example was simulated in two different conditions (with and without preservative molecules):
+<img src="https://github.com/Vini-MOliveira/ML_MD/blob/main/example/GG917.png" alt="image" width="500"/>
+- Analysis showing the main differences in intra-peptide interactions caused by preservative presence: 
 <img src="https://github.com/user-attachments/assets/4e34e597-1f4d-46a2-b756-312e25c83efc" alt="image" width="700"/>
-<img src="/lrlhps/users/l034064/Github/ML_MD/example" alt="image" width="700"/>
+
