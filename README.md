@@ -18,3 +18,7 @@ Understanding protein conformational states is critical for insights into their 
 - Applies a Random Forest classifier to the interaction data.
 - Evaluates model performance using cross-validation.
 - Uses SHAP (SHapley Additive exPlanations) to interpret model predictions.
+
+### Result example
+
+<img src="https://github.com/user-attachments/assets/4e34e597-1f4d-46a2-b756-312e25c83efc" alt="image" width="700"/>
